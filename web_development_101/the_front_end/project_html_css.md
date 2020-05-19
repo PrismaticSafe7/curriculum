@@ -93,6 +93,7 @@ Submit a pull request with a link to your solution in this [file](https://github
   <summary> Show Student Solutions </summary>
 
 * Add your solution below this list
+* [PrismaticSafe7's solution (Easy)] (https://github.com/PrismaticSafe7/google-homepage) - [View in Browser](https://PrismaticSafe7.github.io/google-homepage/)
 * [gerhernandez7's solution (Hard)](https://github.com/ger-hernandez/google-homepage) - [View in Browser](https://ger-hernandez.github.io/google-homepage/)
 * [Lcdevi's solution (Easy)](https://github.com/Lcdevi/google-homepage) - [View in Browser](https://lcdevi.github.io/google-homepage/)
 * [Alisha Hwee's Solution (Easy)](https://github.com/alishahwee/google-homepage) - [View in Browser](https://alishahwee.github.io/google-homepage/)
